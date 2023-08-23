@@ -1,3 +1,5 @@
+## Hosted Link
+https://karan9927.github.io/Table-formation/
 ## Table Styling
 ![image](https://github.com/Karan9927/Table-formation/assets/115612744/00482886-0fa4-4a88-a756-178a3c84bc5f)
 
